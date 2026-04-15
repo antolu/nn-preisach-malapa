@@ -1,0 +1,2 @@
+git+https://github.com/antolu/transformertf.git@v0.14.1#egg=transformertf
+git+https://github.com/antolu/sa-preisach.git@v0.1#egg=sa-preisach
