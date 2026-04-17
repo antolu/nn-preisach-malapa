@@ -1,102 +1,22 @@
 initial_mag:
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_1.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_2.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_3.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_4.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_5.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_6.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_7.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_8.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_9.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - initial_mag
-  - spec_10.parquet
+- data/SHiP/initial_mag/spec_1.parquet
+- data/SHiP/initial_mag/spec_2.parquet
+- data/SHiP/initial_mag/spec_3.parquet
+- data/SHiP/initial_mag/spec_4.parquet
+- data/SHiP/initial_mag/spec_5.parquet
+- data/SHiP/initial_mag/spec_6.parquet
+- data/SHiP/initial_mag/spec_7.parquet
+- data/SHiP/initial_mag/spec_8.parquet
+- data/SHiP/initial_mag/spec_9.parquet
+- data/SHiP/initial_mag/spec_10.parquet
 major_hyst_loop:
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_1.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_2.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_3.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_4.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_5.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_6.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_7.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_8.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_9.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - SHiP
-  - major_hyst_loop
-  - spec_10.parquet
+- data/SHiP/major_hyst_loop/spec_1.parquet
+- data/SHiP/major_hyst_loop/spec_2.parquet
+- data/SHiP/major_hyst_loop/spec_3.parquet
+- data/SHiP/major_hyst_loop/spec_4.parquet
+- data/SHiP/major_hyst_loop/spec_5.parquet
+- data/SHiP/major_hyst_loop/spec_6.parquet
+- data/SHiP/major_hyst_loop/spec_7.parquet
+- data/SHiP/major_hyst_loop/spec_8.parquet
+- data/SHiP/major_hyst_loop/spec_9.parquet
+- data/SHiP/major_hyst_loop/spec_10.parquet

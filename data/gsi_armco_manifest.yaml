@@ -1,63 +1,15 @@
 initial_mag:
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - initial_mag
-  - spec_1.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - initial_mag
-  - spec_2.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - initial_mag
-  - spec_3.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - initial_mag
-  - spec_4.parquet
+- data/GSI_ARMCO/initial_mag/spec_1.parquet
+- data/GSI_ARMCO/initial_mag/spec_2.parquet
+- data/GSI_ARMCO/initial_mag/spec_3.parquet
+- data/GSI_ARMCO/initial_mag/spec_4.parquet
 major_hyst_loop:
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - major_hyst_loop
-  - spec_1.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - major_hyst_loop
-  - spec_2.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - major_hyst_loop
-  - spec_3.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - major_hyst_loop
-  - spec_4.parquet
+- data/GSI_ARMCO/major_hyst_loop/spec_1.parquet
+- data/GSI_ARMCO/major_hyst_loop/spec_2.parquet
+- data/GSI_ARMCO/major_hyst_loop/spec_3.parquet
+- data/GSI_ARMCO/major_hyst_loop/spec_4.parquet
 minor_hyst_loop:
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - minor_hyst_loop
-  - spec_1.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - minor_hyst_loop
-  - spec_2.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - minor_hyst_loop
-  - spec_3.parquet
-- !!python/object/apply:pathlib.PosixPath
-  - data
-  - GSI_ARMCO
-  - minor_hyst_loop
-  - spec_4.parquet
+- data/GSI_ARMCO/minor_hyst_loop/spec_1.parquet
+- data/GSI_ARMCO/minor_hyst_loop/spec_2.parquet
+- data/GSI_ARMCO/minor_hyst_loop/spec_3.parquet
+- data/GSI_ARMCO/minor_hyst_loop/spec_4.parquet
