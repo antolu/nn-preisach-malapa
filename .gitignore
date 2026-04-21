@@ -1,3 +1,11 @@
+log/
+logs/
+wandb
+*lightning_logs/
+*checkpoints/
+SA-PreisachNN/
+
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
